@@ -18,6 +18,13 @@ pim pam pum jojo
 jiji.
 
 
+## Work performed by pepet 
+
+2nd commit from pepet -> merge by pull request 
+
+Wololo!!!!!   aegis
+
+
 ## Work done by jordiac after pepet's 2nd commit
  pim pam ppum parampompero
  
